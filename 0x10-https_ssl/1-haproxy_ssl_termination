@@ -98,8 +98,8 @@ backend awwal12inc.tech-backend
 
         balance roundrobin
 
-        server 56309-web-01 100.26.219.77 check
+        server 56309-web-01 52.3.245.1 check
 
-        server 56309-web-02 54.162.50.114 check
+        server 56309-web-02 3.90.80.149 check
 
 # end of parametersi
